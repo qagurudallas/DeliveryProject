@@ -7,7 +7,7 @@ public class DeliveryTest {
 	Delivery delObj = new Delivery("Priyanka");
 
 	// delObj.Distance returns 10 if distance is less than 10km
-	// we are providing 12 km
+	
 
 	@Test
 	public void deliveryPriceForLessthan10km() {
